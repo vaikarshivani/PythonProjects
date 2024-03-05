@@ -1,0 +1,21 @@
+# Mad Libs Generator
+
+This Python program generates a Mad Libs story based on user input. Mad Libs is a word game where players fill in the blanks of a story with different types of words (such as nouns, verbs, adjectives) without knowing the full context. The result is often humorous and unexpected.
+
+## Usage
+
+1. Run the program by executing the `madlibs.py` file.
+2. Follow the prompts to enter different words such as an adjective, verbs, and the name of a famous person.
+3. The program will use your inputs to create a customized Mad Libs story.
+4. The final story will be displayed, incorporating the words you provided.
+
+## Examples Program
+
+youtuber = "AmazingChannel"
+print("subscribe to" + youtuber)
+print("subscribe to {}".format(youtuber))
+print(f"subscribe to {youtuber}")
+
+### String Concatenation
+
+
