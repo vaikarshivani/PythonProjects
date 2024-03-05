@@ -1,4 +1,5 @@
-Rock, Paper, Scissors Game
+                                Rock, Paper, Scissors Game
+
 This Python program implements a simple Rock, Paper, Scissors game where the user plays against the computer.
 
 Playing the Game
